@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Omdadhania
-- 🌱 I’m currently learning Web Devlopment
 - 📫 How to reach me
 - omdadhania25@gmail.com
 
